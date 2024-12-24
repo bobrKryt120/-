@@ -1,3 +1,16 @@
 img {
   height: 100px;
 }
+
+header {
+  background-color: grey;
+  text-align: center;
+}
+
+header a {
+  background-color: orange;
+  border: 2px solid orange;
+  border-radius: 50px;
+  padding: 7px;
+  margin: 20px;
+}
