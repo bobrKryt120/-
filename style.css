@@ -31,7 +31,7 @@ th {
 }
 
 body {
-  background-color: green;
+  background-color: lightyellow;
 }
 
 table, tr, td{
@@ -50,4 +50,9 @@ p {
 main {
   background-color: lightgrey;
   border: 3px slashed green;
+}
+
+footer {
+  background-color: lightgrey;
+  border: 3px dotted grey;
 }
