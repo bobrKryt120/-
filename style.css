@@ -44,10 +44,10 @@ p img {
 }
 
 p {
-  font-size: 15px;
+  font-size: 25px;
 }
 
 main {
-  background-color: lightblue;
+  background-color: lightgrey;
   border: 3px slashed green;
 }
