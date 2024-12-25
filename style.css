@@ -31,5 +31,9 @@ th {
 }
 
 body {
-  background-image: src="https://cdn.pixabay.com/photo/2016/02/27/18/07/clover-1225988_640.jpg";
+  background-img: src="https://cdn.pixabay.com/photo/2016/02/27/18/07/clover-1225988_640.jpg";
+}
+
+table {
+  border: 2px solid black;
 }
