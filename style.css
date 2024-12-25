@@ -43,6 +43,10 @@ p img {
   height: 250px;
 }
 
+p {
+  font-size: 15px;
+}
+
 main {
   background-color: red;
   border: 3px slashed brown;
