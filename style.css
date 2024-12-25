@@ -43,6 +43,10 @@ h3 img {
   text-align: center;
   height: 250px;
   border: 2px solid black;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 3px;
+  padding-bottom: 3px;
 }
 
 p {
