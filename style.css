@@ -1,4 +1,4 @@
-img {
+td img {
   height: 100px;
 }
 
@@ -36,4 +36,9 @@ body {
 
 table {
   border: 2px solid black;
+}
+
+p img {
+  text-align: center;
+  height: 250px;
 }
