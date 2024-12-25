@@ -42,6 +42,7 @@ table, tr, td{
 h3 img {
   text-align: center;
   height: 250px;
+  border: 2px solid black;
 }
 
 p {
