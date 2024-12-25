@@ -29,3 +29,7 @@ th {
   rowspan: 5;
   text-align: center;
 }
+
+body {
+  background-image: src="https://cdn.pixabay.com/photo/2016/02/27/18/07/clover-1225988_640.jpg";
+}
