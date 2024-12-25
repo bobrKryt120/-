@@ -27,4 +27,5 @@ p table {
 
 th {
   rowspan: 5;
+  text-align: center;
 }
