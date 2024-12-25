@@ -39,7 +39,7 @@ table, tr, td{
   border: 2px solid black;
 }
 
-p img {
+h3 img {
   text-align: center;
   height: 250px;
 }
@@ -56,4 +56,8 @@ main {
 footer {
   background-color: lightgrey;
   border: 3px dotted grey;
+}
+
+h3 {
+  text-align: center;
 }
