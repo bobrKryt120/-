@@ -31,7 +31,7 @@ th {
 }
 
 body {
-  background-img: src="https://cdn.pixabay.com/photo/2016/02/27/18/07/clover-1225988_640.jpg";
+  background-color: black;
 }
 
 table {
@@ -41,4 +41,9 @@ table {
 p img {
   text-align: center;
   height: 250px;
+}
+
+main {
+  background-color: red;
+  border: 3px slashed brown;
 }
