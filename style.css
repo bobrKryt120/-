@@ -5,7 +5,7 @@ td img {
 header {
   background-color: lightgrey;
   text-align: center;
-  border: 3px solid red;
+  border: 3px solid green;
 }
 
 header a {
@@ -48,6 +48,6 @@ p {
 }
 
 main {
-  background-color: red;
-  border: 3px slashed brown;
+  background-color: lightgreen;
+  border: 3px slashed green;
 }
