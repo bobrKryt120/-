@@ -24,3 +24,7 @@ td {
 p table {
   text-align: center;
 }
+
+th {
+  rowspan: 5;
+}
