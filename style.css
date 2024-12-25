@@ -9,12 +9,13 @@ header {
 }
 
 header a {
-  background-color: orange;
-  border: 2px solid orange;
+  background-color: lightpink;
+  border: 2px solid pink;
   border-radius: 50px;
   padding: 5px;
   margin: 20px;
   text-decoration: none;
+  color: black;
 }
 
 td {
